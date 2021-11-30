@@ -1,0 +1,4 @@
+.gitignore
+.nuxt
+dist
+node_modules
