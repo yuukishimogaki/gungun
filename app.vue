@@ -1,5 +1,7 @@
 <template>
   <div>
-    <NuxtWelcome />
+    <TimeTable />
   </div>
 </template>
+
+
