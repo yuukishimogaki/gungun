@@ -6,6 +6,11 @@
     "start": "node .output/server/index.mjs"
   },
   "devDependencies": {
+    "@types/sqlite3": "^3.1.7",
     "nuxt3": "latest"
+  },
+  "dependencies": {
+    "sqlite": "^4.0.23",
+    "sqlite3": "^5.0.2"
   }
 }
